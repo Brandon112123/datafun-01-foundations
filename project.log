@@ -74,3 +74,306 @@
 2026-01-16 13:05:45 | INFO | P01 | END main()..................
 2026-01-16 13:08:27 | INFO | P01 | Generated formatted multi-line SUMMARY string.
 2026-01-16 13:08:27 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 14:34:38 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-16 14:34:38 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 14:47:31 | INFO | P01 | =================
+2026-01-16 14:47:31 | INFO | P01 | === RUN START ===
+2026-01-16 14:47:31 | INFO | P01 | project=Foundations of Professional Python
+2026-01-16 14:47:31 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-16 14:47:31 | INFO | P01 | python=3.14.2
+2026-01-16 14:47:31 | INFO | P01 | os=Darwin 23.6.0
+2026-01-16 14:47:31 | INFO | P01 | shell=zsh
+2026-01-16 14:47:31 | INFO | P01 | cwd=.
+2026-01-16 14:47:31 | INFO | P01 | github_actions=False
+2026-01-16 14:47:31 | INFO | P01 | =================
+2026-01-16 14:47:31 | INFO | P01 | START main()..................
+2026-01-16 14:47:31 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-16 14:47:31 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 14:47:31 | INFO | P01 | 
+    Custom Information:
+        Company name: DataFun Analytics
+        Employee count: 150
+        TODO: Add your other global variables below:
+
+
+
+
+
+    
+2026-01-16 14:47:31 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-16 14:47:31 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 14:47:31 | INFO | P01 | 
+    Descriptive Statistics for Snowfall (inches):
+        Total snowfall: 22.50 inches
+        TODO: Add your count of measurements below:
+
+        TODO: Add your minimum and maximum snowfall below:
+
+        Average snowfall: 4.50 inches
+        TODO: Add your standard deviation below:
+
+    
+2026-01-16 14:47:31 | INFO | P01 | END main()..................
+2026-01-16 14:48:15 | INFO | P01 | =================
+2026-01-16 14:48:15 | INFO | P01 | === RUN START ===
+2026-01-16 14:48:15 | INFO | P01 | project=Foundations of Professional Python
+2026-01-16 14:48:15 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-16 14:48:15 | INFO | P01 | python=3.14.2
+2026-01-16 14:48:15 | INFO | P01 | os=Darwin 23.6.0
+2026-01-16 14:48:15 | INFO | P01 | shell=zsh
+2026-01-16 14:48:15 | INFO | P01 | cwd=.
+2026-01-16 14:48:15 | INFO | P01 | github_actions=False
+2026-01-16 14:48:15 | INFO | P01 | =================
+2026-01-16 14:48:15 | INFO | P01 | START main()..................
+2026-01-16 14:48:15 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-16 14:48:15 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 14:48:15 | INFO | P01 | 
+    Custom Information:
+        Company name: DataFun Analytics
+        Employee count: 150
+        TODO: Add your other global variables below:
+
+
+
+
+
+    
+2026-01-16 14:48:15 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-16 14:48:15 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 14:48:15 | INFO | P01 | 
+    Descriptive Statistics for Snowfall (inches):
+        Total snowfall: 22.50 inches
+        TODO: Add your count of measurements below:
+
+        TODO: Add your minimum and maximum snowfall below:
+
+        Average snowfall: 4.50 inches
+        TODO: Add your standard deviation below:
+
+    
+2026-01-16 14:48:15 | INFO | P01 | END main()..................
+2026-01-16 15:05:51 | INFO | P01 | =================
+2026-01-16 15:05:51 | INFO | P01 | === RUN START ===
+2026-01-16 15:05:51 | INFO | P01 | project=Foundations of Professional Python
+2026-01-16 15:05:51 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-16 15:05:51 | INFO | P01 | python=3.14.2
+2026-01-16 15:05:51 | INFO | P01 | os=Darwin 23.6.0
+2026-01-16 15:05:51 | INFO | P01 | shell=zsh
+2026-01-16 15:05:51 | INFO | P01 | cwd=.
+2026-01-16 15:05:51 | INFO | P01 | github_actions=False
+2026-01-16 15:05:51 | INFO | P01 | =================
+2026-01-16 15:05:51 | INFO | P01 | START main()..................
+2026-01-16 15:05:51 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-16 15:05:51 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 15:05:51 | INFO | P01 | 
+    Custom Information:
+        Company name: DataFun Analytics
+        Employee count: 150
+        TODO: Add your other global variables below:
+
+
+
+
+
+    
+2026-01-16 15:05:51 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-16 15:05:51 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 15:05:51 | INFO | P01 | 
+    Descriptive Statistics for Snowfall (inches):
+        Total snowfall: 22.50 inches
+        TODO: Add your count of measurements below:
+
+        TODO: Add your minimum and maximum snowfall below:
+
+        Average snowfall: 4.50 inches
+        TODO: Add your standard deviation below:
+
+    
+2026-01-16 15:05:51 | INFO | P01 | END main()..................
+2026-01-16 15:18:51 | INFO | P01 | =================
+2026-01-16 15:18:51 | INFO | P01 | === RUN START ===
+2026-01-16 15:18:51 | INFO | P01 | project=Foundations of Professional Python
+2026-01-16 15:18:51 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-16 15:18:51 | INFO | P01 | python=3.14.2
+2026-01-16 15:18:51 | INFO | P01 | os=Darwin 23.6.0
+2026-01-16 15:18:51 | INFO | P01 | shell=zsh
+2026-01-16 15:18:51 | INFO | P01 | cwd=.
+2026-01-16 15:18:51 | INFO | P01 | github_actions=False
+2026-01-16 15:18:51 | INFO | P01 | =================
+2026-01-16 15:18:51 | INFO | P01 | START main()..................
+2026-01-16 15:18:51 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-16 15:18:51 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 15:18:51 | INFO | P01 | 
+    Custom Information:
+        Company name: DataFun Analytics
+        Employee count: 150
+        Employee hours per week: 45.5
+        Is public company: True
+        Office locations: ['New York', 'San Francisco', 'Chicago', 'Austin', 'Seattle']
+        TODO: Add your other global variables below:
+    
+2026-01-16 15:18:51 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-16 15:18:51 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 15:18:51 | INFO | P01 | 
+    Descriptive Statistics for Snowfall (inches):
+        Total snowfall: 25.90 inches
+        TODO: Add your count of measurements below:
+
+        TODO: Add your minimum and maximum snowfall below:
+
+        Average snowfall: 5.18 inches
+        TODO: Add your standard deviation below:
+
+    
+2026-01-16 15:18:51 | INFO | P01 | END main()..................
+2026-01-16 15:35:59 | INFO | P01 | =================
+2026-01-16 15:35:59 | INFO | P01 | === RUN START ===
+2026-01-16 15:35:59 | INFO | P01 | project=Foundations of Professional Python
+2026-01-16 15:35:59 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-16 15:35:59 | INFO | P01 | python=3.14.2
+2026-01-16 15:35:59 | INFO | P01 | os=Darwin 23.6.0
+2026-01-16 15:35:59 | INFO | P01 | shell=zsh
+2026-01-16 15:35:59 | INFO | P01 | cwd=.
+2026-01-16 15:35:59 | INFO | P01 | github_actions=False
+2026-01-16 15:35:59 | INFO | P01 | =================
+2026-01-16 15:35:59 | INFO | P01 | START main()..................
+2026-01-16 15:35:59 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-16 15:35:59 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 15:35:59 | INFO | P01 | 
+    Custom Information:
+        Company name: DataFun Analytics
+        Employee count: 150
+        Employee hours per week: 45.5
+        Is public company: True
+        Office locations: ['New York', 'San Francisco', 'Chicago', 'Austin', 'Seattle']
+        TODO: Add your other global variables below:
+            "New York"
+            "San Francisco"
+            "Chicago"
+            "Austin"
+            "Seattle"
+    
+2026-01-16 15:35:59 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-16 15:35:59 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 15:35:59 | INFO | P01 | 
+    Descriptive Statistics for Snowfall (inches):
+        Total snowfall: 25.90 inches
+        TODO: Add your count of measurements below:
+        Count of measurements: 5
+        TODO: Add your minimum and maximum snowfall below:
+
+        Average snowfall: 5.18 inches
+        TODO: Add your standard deviation below:
+
+    
+2026-01-16 15:35:59 | INFO | P01 | END main()..................
+2026-01-16 15:37:55 | INFO | P01 | =================
+2026-01-16 15:37:55 | INFO | P01 | === RUN START ===
+2026-01-16 15:37:55 | INFO | P01 | project=Foundations of Professional Python
+2026-01-16 15:37:55 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-16 15:37:55 | INFO | P01 | python=3.14.2
+2026-01-16 15:37:55 | INFO | P01 | os=Darwin 23.6.0
+2026-01-16 15:37:55 | INFO | P01 | shell=zsh
+2026-01-16 15:37:55 | INFO | P01 | cwd=.
+2026-01-16 15:37:55 | INFO | P01 | github_actions=False
+2026-01-16 15:37:55 | INFO | P01 | =================
+2026-01-16 15:37:55 | INFO | P01 | START main()..................
+2026-01-16 15:37:55 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-16 15:37:55 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 15:37:55 | INFO | P01 | 
+    Custom Information:
+        Company name: DataFun Analytics
+        Employee count: 150
+        Employee hours per week: 45.5
+        Is public company: True
+        Office locations: ['New York', 'San Francisco', 'Chicago', 'Austin', 'Seattle']
+        TODO: Add your other global variables below:
+            "New York"
+            "San Francisco"
+            "Chicago"
+            "Austin"
+            "Seattle"
+    
+2026-01-16 15:37:55 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-16 15:37:55 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 15:37:55 | INFO | P01 | 
+    Descriptive Statistics for Snowfall (inches):
+        Total snowfall: 25.90 inches
+        TODO: Add your count of measurements below:
+        Count of measurements: 5
+        TODO: Add your minimum and maximum snowfall below:
+        Minimum snowfall: 2.50 inches
+        Average snowfall: 5.18 inches
+        TODO: Add your standard deviation below:
+        Maximum snowfall: 6.90 inches
+    
+2026-01-16 15:37:55 | INFO | P01 | END main()..................
+2026-01-16 15:54:14 | INFO | P01 | =================
+2026-01-16 15:54:14 | INFO | P01 | === RUN START ===
+2026-01-16 15:54:14 | INFO | P01 | project=Foundations of Professional Python
+2026-01-16 15:54:14 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-16 15:54:14 | INFO | P01 | python=3.14.2
+2026-01-16 15:54:14 | INFO | P01 | os=Darwin 23.6.0
+2026-01-16 15:54:14 | INFO | P01 | shell=zsh
+2026-01-16 15:54:14 | INFO | P01 | cwd=.
+2026-01-16 15:54:14 | INFO | P01 | github_actions=False
+2026-01-16 15:54:14 | INFO | P01 | =================
+2026-01-16 15:54:14 | INFO | P01 | START main()..................
+2026-01-16 15:54:14 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-16 15:54:14 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 15:54:14 | INFO | P01 | 
+    Company Information:
+        Company name: World Analytics
+        Employee count: 100
+        Employee hours per week: 45.5
+        Is public company: True
+        Office locations: ['New York', 'San Francisco', 'Chicago', 'Austin', 'Seattle']
+        TODO: Add your other global variables below:
+            "New York"
+            "San Francisco"
+            "Chicago"
+            "Austin"
+            "Seattle"
+    
+2026-01-16 15:55:00 | INFO | P01 | =================
+2026-01-16 15:55:00 | INFO | P01 | === RUN START ===
+2026-01-16 15:55:00 | INFO | P01 | project=Foundations of Professional Python
+2026-01-16 15:55:00 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-16 15:55:00 | INFO | P01 | python=3.14.2
+2026-01-16 15:55:00 | INFO | P01 | os=Darwin 23.6.0
+2026-01-16 15:55:00 | INFO | P01 | shell=zsh
+2026-01-16 15:55:00 | INFO | P01 | cwd=.
+2026-01-16 15:55:00 | INFO | P01 | github_actions=False
+2026-01-16 15:55:00 | INFO | P01 | =================
+2026-01-16 15:55:00 | INFO | P01 | START main()..................
+2026-01-16 15:55:00 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-16 15:55:00 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 15:55:00 | INFO | P01 | 
+    Company Information:
+        Company name: World Analytics
+        Employee count: 100
+        Employee hours per week: 45.5
+        Is public company: True
+        Office locations: ['New York', 'San Francisco', 'Chicago', 'Austin', 'Seattle']
+        TODO: Add your other global variables below:
+            "New York"
+            "San Francisco"
+            "Chicago"
+            "Austin"
+            "Seattle"
+    
+2026-01-16 15:55:00 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-16 15:55:00 | INFO | P01 | Returning the str to the calling function.
+2026-01-16 15:55:00 | INFO | P01 | 
+    Descriptive Statistics for Snowfall (inches):
+        Total snowfall: 25.90 inches
+        TODO: Add your count of measurements below:
+        Count of measurements: 5
+        TODO: Add your minimum and maximum snowfall below:
+        Minimum snowfall: 2.50 inches
+        Average snowfall: 5.18 inches
+        TODO: Add your standard deviation below:
+        Standard deviation: 1.76 inches
+        Maximum snowfall: 6.90 inches
+    
+2026-01-16 15:55:00 | INFO | P01 | END main()..................
