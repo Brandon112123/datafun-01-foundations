@@ -17,16 +17,6 @@ Date: 2026-01
 OBS:
   This is your file to practice and customize.
   Find the TODO comments, and as you complete each task, remove the TODO note.
-
-TODO: Change the Author line of the docstring above to your name or alias.
-
-TODO: RENAME this file from app_yourname.py to something
-      that includes your name or alias, e.g., app_stellar_analytics.py.
-
-TODO: Update the opening line of the docstring above to match the new file name.
-
-TODO: Update the associated `uv run python` command in the README.md file.
-
 """
 
 
@@ -54,27 +44,16 @@ LOG: logging.Logger = get_logger("P01", level="INFO")
 
 
 # See the other file for examples.
-# TODO: Declare and initialize a string (str) variable of your choice below:
-MY_ANALYTICS_COMPANY: Final[str] = "World Analytics"
-
-# TODO: Declare and initialize an integer (int) variable of your choice below:
-MY_EMPLOYEE_COUNT: Final[int] = 100
-
-# TODO: Declare and initialize a float (float) variable of your choice below:
-MY_EMPLOYEE_HOURS_PER_WEEK: Final[float] = 45.5
-
-# TODO: Declare and initialize a boolean (bool) variable of your choice (True or False) below:
-MY_IS_PUBLIC_COMPANY: Final[bool] = True
-
-# TODO: Declare and initialize a list of strings (list[str]) variable of your choice below:
-# REQ: Strings must be in quotes and items are separated by commas,
-# REQ: The list is wrapped in square brackets. (See the other file for examples.)
-MY_OFFICE_LOCATIONS: Final[list[str]] = [
-    "New York",
-    "San Francisco",
-    "Chicago",
-    "Austin",
-    "Seattle",
+MILITARY_UNIT_NAME: Final[str] = "893 Infantry Division"
+MILITARY_SOLDIER_COUNT: Final[int] = 15000
+MILITARY_READINESS_LEVEL: Final[float] = 92.5
+HAS_OVERSEAS_PRESENCE: Final[bool] = True
+MILITARY_BASES: Final[list[str]] = [
+    "Camp Eagle, Germany",
+    "Fort Bravo, Quatar",
+    "Base Delta, South Korea",
+    "Station Foxtrot, Japan",
+    "Outpost Gamma, Italy",
 ]
 
 # === DECLARE A FUNCTION TO FORMAT THE INFORMATION ===
@@ -87,23 +66,14 @@ def get_summary() -> str:
 
     Returns: - a formatted multi-line string (starts with f and wrapped in triple quotes).
     """
-    # TODO: Create and return a multi-line f-string (triple-quoted) that includes
-    # all of the global variables you declared above, each on its own line,
-    # labeled clearly with descriptive text.
-    # See the other file for an example. Remember to start the string with an f!
+
     summary: str = f"""
-    Company Information:
-        Company name: {MY_ANALYTICS_COMPANY}
-        Employee count: {MY_EMPLOYEE_COUNT}
-        Employee hours per week: {MY_EMPLOYEE_HOURS_PER_WEEK}
-        Is public company: {MY_IS_PUBLIC_COMPANY}
-        Office locations: {MY_OFFICE_LOCATIONS}
-        TODO: Add your other global variables below:
-            "New York"
-            "San Francisco"
-            "Chicago"
-            "Austin"
-            "Seattle"
+    Unit Total Information:
+        Military unit name: {MILITARY_UNIT_NAME}
+        Total soldiers assigned: {MILITARY_SOLDIER_COUNT}
+        Operational readiness level: {MILITARY_READINESS_LEVEL}
+        Overseas deployment capability: {HAS_OVERSEAS_PRESENCE}
+        Forward operating bases: {MILITARY_BASES}
     """
 
     LOG.info("Generated formatted multi-line SUMMARY string.")
@@ -124,35 +94,27 @@ def get_statistics() -> str:
     # Initialize sample data - snowfall measurements in inches.
     # REQ: Vary ONE of the sample data values.
     # See how the statistics change when you do.
-    # TODO: Change one of the values in the list below.
     snowfall_inches: list[float] = [2.5, 6.9, 4.5, 5.5, 6.5]
 
     # Calculate descriptive statistics below - see other file for examples.
 
     # Example: Calculate total snowfall.
     total: float = sum(snowfall_inches)
-
-    # Example : Calculate count of measurements.
     count: int = len(snowfall_inches)
 
-    # TODO: Calculate minimum and maximum snowfall (see other file for examples).
     minimum: float = min(snowfall_inches) if count > 0 else 0.0
     maximum: float = max(snowfall_inches) if count > 0 else 0
-    # Use the statistics module to calculate average.
-    average: float = statistics.mean(snowfall_inches) if count > 0 else 0.0
 
-    # TODO: Use the statistics module to calculate standard deviation below:
+    average: float = statistics.mean(snowfall_inches) if count > 0 else 0.0
     std_dev: float = statistics.stdev(snowfall_inches) if count > 1 else 0.0
+
     # Build a formatted multi-line string using f and triple quotes.
     summary: str = f"""
     Descriptive Statistics for Snowfall (inches):
         Total snowfall: {total:.2f} inches
-        TODO: Add your count of measurements below:
         Count of measurements: {count}
-        TODO: Add your minimum and maximum snowfall below:
         Minimum snowfall: {minimum:.2f} inches
         Average snowfall: {average:.2f} inches
-        TODO: Add your standard deviation below:
         Standard deviation: {std_dev:.2f} inches
         Maximum snowfall: {maximum:.2f} inches
     """
